@@ -112,7 +112,7 @@ export const headerData = {
     },
     {
       text: 'Crypto Bubble',
-      href: '/homes/cbubble',
+      href: '/home/bubble',
     },
   ],
   actions: [{ text: 'APP STAKING', href: 'https://linktr.ee/reystaking', target: '_blank' }],
