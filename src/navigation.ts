@@ -7,19 +7,19 @@ export const headerData = {
       links: [
         {
           text: 'What is Staking?',
-          href: getPermalink('/homes/staking'),
+          href: getPermalink('/home/staking'),
         },
         {
           text: 'Startup',
-          href: getPermalink('/homes/startup'),
+          href: getPermalink('/home/startup'),
         },
         {
           text: 'Mobile App',
-          href: getPermalink('/homes/mobile-app'),
+          href: getPermalink('/home/mobile-app'),
         },
         {
           text: 'Personal',
-          href: getPermalink('/homes/personal'),
+          href: getPermalink('/home/personal'),
         },
       ],
     },
@@ -28,31 +28,31 @@ export const headerData = {
       links: [
         {
           text: 'Solana DeFi ',
-          href: getPermalink('/homes/sol'),
+          href: getPermalink('/home/sol'),
         },
         {
           text: 'Ethereum DeFi',
-          href: getPermalink('/homes/eth'),
+          href: getPermalink('/home/eth'),
         },
         {
           text: 'Binance DeFi',
-          href: getPermalink('/homes/bnb'),
+          href: getPermalink('/home/bnb'),
         },
         {
           text: 'Polygon DeFi',
-          href: getPermalink('/homes/pol'),
+          href: getPermalink('/home/pol'),
         },
         {
           text: 'Avalanche DeFi',
-          href: getPermalink('/homes/avax'),
+          href: getPermalink('/home/avax'),
         },
         {
           text: 'Arbitrum DeFi',
-          href: getPermalink('/homes/arb'),
+          href: getPermalink('/home/arb'),
         },
         {
-          text: 'Privacy policy',
-          href: getPermalink('/privacy'),
+          text: 'View All DeFi',
+          href: getPermalink('#'),
         },
       ],
     },
